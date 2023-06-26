@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 from PIL import Image
-st.imwrite("trial")
+st.title("trial")
 # model_path = r"C:\Users\Pushkaraj\Downloads\Handwritten_digit_model.h5"
 # # Load the saved Keras model
 # model = keras.models.load_model(model_path, compile=False)
